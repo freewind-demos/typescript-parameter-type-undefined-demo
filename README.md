@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
-===========================
+TypeScript Parameter Type "undefined" Demo
+==========================================
+
+试一下如何声明参数类型来处理`null/undefined`参数。
 
 ```
 npm install
 npm run demo
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
